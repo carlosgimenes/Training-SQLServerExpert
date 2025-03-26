@@ -1,4 +1,4 @@
-# SQL Server Express - LIVE #062 Como Criar e Gerenciar Logins no SQL Server
+# SQL Server Expert - LIVE #062 Como Criar e Gerenciar Logins no SQL Server
 
 ## Resumo
 
