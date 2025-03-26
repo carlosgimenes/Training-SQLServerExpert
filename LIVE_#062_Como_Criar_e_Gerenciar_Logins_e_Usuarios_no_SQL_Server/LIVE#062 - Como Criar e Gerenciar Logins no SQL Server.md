@@ -4,7 +4,7 @@
 
 ### Scripts utilizados na Live
 
-- [LIVE #062 - Copiar Login com senha](./src/LIVE%20#062%20-%20Copiar%20Login%20com%20senha.sql)
+- [LIVE #062 - Copiar Login com senha](./src/LIVE#062-CopiarLogincomsenha.sql)
 - [LIVE #062 - Logins e Server Roles](./src/LIVE%20#062%20-%20Logins%20e%20Server%20Roles.sql)
 - [LIVE #062 - Usuarios Orfaos](./src/LIVE%20#062%20-%20Usuarios%20Orfaos.sql)
 
