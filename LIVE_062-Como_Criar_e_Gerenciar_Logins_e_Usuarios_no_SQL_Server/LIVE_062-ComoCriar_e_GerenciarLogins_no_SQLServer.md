@@ -2,6 +2,10 @@
 
 ## Resumo
 
+### Live
+
+- ![LIVE #062 - Vídeo com explicação do conteúdo](https://drive.google.com/file/d/1p7MsG0QvgkdnDSnRZS_8LlPdxIfrgNqX/view?usp=sharing)
+
 ### Scripts utilizados na Live
 
 - [LIVE #062 - Copiar Login com senha](./src/LIVE_062-CopiarLogin_com_Senha.sql)
