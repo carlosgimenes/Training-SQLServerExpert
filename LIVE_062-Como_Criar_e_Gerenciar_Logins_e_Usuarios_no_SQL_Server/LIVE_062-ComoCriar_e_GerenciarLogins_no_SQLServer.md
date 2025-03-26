@@ -18,6 +18,6 @@
 
 ### Créditos
 
-- Professor [Landry Duailibe Salles Filho](https://www.linkedin.com/in/landryduailibe/overlay/about-this-profile/)
+- Professor [Landry Duailibe Salles Filho](https://www.linkedin.com/in/landryduailibe/)
 - [Canal Youtube](https://www.youtube.com/@prof-landrySQLServerExpert)
 - [Instagram](@sqlserver.expert)
