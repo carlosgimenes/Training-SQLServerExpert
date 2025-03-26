@@ -15,3 +15,9 @@
 ### Apresentação utilizada na Live
 
 - [LIVE #062 - Como Criar e Gerenciar Logins e Usuários no SQL Server](./docs/LIVE_062-Como_Criar_e_Gerenciar_Logins_e_Usuarios_no_SQL_Server.pdf)
+
+### Créditos
+
+- Professor [Landry Duailibe Salles Filho](https://www.linkedin.com/in/landryduailibe/overlay/about-this-profile/)
+- [Canal Youtube](https://www.youtube.com/@prof-landrySQLServerExpert)
+- [Instagram](@sqlserver.expert)
