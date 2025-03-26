@@ -20,4 +20,4 @@
 
 - [Professor Landry Duailibe Salles Filho](https://www.linkedin.com/in/landryduailibe/)
 - [Canal YouTube](https://www.youtube.com/@prof-landrySQLServerExpert)
-- [Instagram](@sqlserver.expert)
+- [Instagram](https://www.instagram.com/sqlserver.expert/#)
