@@ -1,5 +1,5 @@
 /**************************************
- Demonstração Plano de Execução
+ Demonstraï¿½ï¿½o Plano de Execuï¿½ï¿½o
  Autor: Landry Duailibe
 ***************************************/
 USE AdventureWorks
@@ -7,7 +7,7 @@ go
 
 
 /*******************
- Plano de Execução
+ Plano de Execuï¿½ï¿½o
  - Texto
 ********************/
 SET STATISTICS PROFILE ON
@@ -30,11 +30,11 @@ Table 'Person'. Scan count 0, logical reads 97
 Table 'Customer'. Scan count 0, logical reads 68
 Table 'SalesOrderHeader'. Scan count 1, logical reads 689
 
-Total de IO = 854pg x 8kb = 6832kb = 6.67mb
+Total de IO = 854pg x 8kb = 6832kb / 1024 = 6.67mb
 */
 
 /*******************
- Plano de Execução
+ Plano de Execuï¿½ï¿½o
  - XML
 ********************/
 SET STATISTICS XML ON
