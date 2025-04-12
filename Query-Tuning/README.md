@@ -13,7 +13,7 @@ Esta jornada é motivada pelo amadurecimento nos conhecimentos de SQL Server, co
 
 ## Índice
 
-- 01. Otimizador de Consultas
+- 01. [Otimizador de Consultas](01.Otimizador_de_Consultas.md)
 - 02. Plano de Execução
 - 03. Estatística de Banco de Dados
 - 04. Cláusula OUTPUT para log de alterações
